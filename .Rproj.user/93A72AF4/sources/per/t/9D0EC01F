@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603718295071.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "124019528",
+    "id" : "9D0EC01F",
+    "lastKnownWriteTime" : 1603718326,
+    "last_content_update" : 1603718326403,
+    "path" : "C:/Users/Admin/Desktop/Rprojects/cousrea_JHU/not_vers_cont_projekt/test.Rmd",
+    "project_path" : "test.Rmd",
+    "properties" : {
+        "cursorPosition" : "6,26",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
